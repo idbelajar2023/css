@@ -5,7 +5,7 @@ Dalam asesmen ini kalian akan mengembangkan kembali website Portal Informasi SMK
 
 Website yang sama akan dikembangkan secara bertahap melalui beberapa level.
 
-LEVEL 1 — CSS Basic
+LEVEL 1 — CSS Basic <br>
 LEVEL 2 — Selector Master
 LEVEL 3 — Box Designer
 LEVEL 4 — Layout Builder
